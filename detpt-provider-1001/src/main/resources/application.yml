@@ -1,0 +1,44 @@
+server:
+  port: 1001
+spring:
+  application:
+    name: dept-provider-1000
+  datasource:
+    username: root
+    password: 123456
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/db2?useUnicode=true&characterEncoding=utf-8&allowMultiQueries=true&serverTimezone=GMT%2B8
+    type: com.alibaba.druid.pool.DruidDataSource
+    druid:
+      # 初始化大小，最小，最大
+      initialSize: 5
+      minIdle: 5
+      maxActive: 20
+      # 配置获取连接等待超时的时间
+      maxWait: 60000
+      # 配置间隔多久才进行一次检测，检测需要关闭的空闲连接，单位是毫秒
+      timeBetweenEvictionRunsMillis: 60000
+      # 配置一个连接在池中最小生存的时间，单位是毫秒
+      minEvictableIdleTimeMillis: 300000
+      validationQuery: SELECT 1 FROM DUAL
+      testWhileIdle: true
+      testOnBorrow: false
+      testOnReturn: false
+      poolPreparedStatements: true
+      # 配置监控统计拦截的filters,去掉监控界面sql无法统计，‘wall’用于防火墙
+      #    filters: stat,wall,log4j
+      maxPoolPreparedStatementPerConnectionSize: 20
+      userGlobalDataSourceStat: true
+      # 通过connectProperties属性来打开mergeSql功能；慢SQL记录
+      connectionProperties: druid.stat.mergeSql=true;druid.stat.slowSqlMillis=500
+mybatis:
+#  config-location: classpath:mybatis/mybatis-config.xml
+  mapper-locations: classpath:/mapper/*.xml
+  type-aliases-package: com.hebo.springcloudapi.entites
+eureka:
+  client:
+    service-url:
+      defaultZone: http://eureka3000.com:3000/eureka,http://eureka3002.com:3002/eureka,http://eureka3001.com:3001/eureka
+  instance:
+    instance-id: dept-provider-1001
+    prefer-ip-address: true

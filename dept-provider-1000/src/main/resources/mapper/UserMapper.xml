@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="detptprovider1001.dao.UserMapper">
+
+    <insert id="addUser" useGeneratedKeys="true" keyProperty="id"
+            parameterType="com.hebo.springcloudapi.entites.User">
+      insert into user
+                  (UID,userName, age , sex, brithy,deptId,db)
+          values (#{UID},#{userName},#{age},#{sex},#{brithy},#{deptId},#{db})
+    </insert>
+
+    <select id="select" resultType="com.hebo.springcloudapi.entites.User">
+        SELECT * FROM user WHERE UID = #{UID}
+    </select>
+
+    <select id="getList" resultType="com.hebo.springcloudapi.entites.User">
+        select * from user
+    </select>
+</mapper>

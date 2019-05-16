@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dept-consumer-2000/dept-consumer-2000.iml" filepath="$PROJECT_DIR$/dept-consumer-2000/dept-consumer-2000.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dept-provider-1000/dept-provider-1000.iml" filepath="$PROJECT_DIR$/dept-provider-1000/dept-provider-1000.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dept-provider-1002/dept-provider-1002.iml" filepath="$PROJECT_DIR$/dept-provider-1002/dept-provider-1002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/detpt-provider-1001/detpt-provider-1001.iml" filepath="$PROJECT_DIR$/detpt-provider-1001/detpt-provider-1001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server-3002/eureka-server-3002.iml" filepath="$PROJECT_DIR$/eureka-server-3002/eureka-server-3002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server-3001/eurekaserver3001.iml" filepath="$PROJECT_DIR$/eureka-server-3001/eurekaserver3001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud.iml" filepath="$PROJECT_DIR$/springcloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-api/springcloud-api.iml" filepath="$PROJECT_DIR$/springcloud-api/springcloud-api.iml" />
+    </modules>
+  </component>
+</project>
