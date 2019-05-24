@@ -1,41 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6727cb4f-6ac8-4c67-aeea-463867823419" name="Default Changelist" comment="添加自定义轮训机制">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_core_10_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_hystrix_10_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_slf4j_10_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_form_feign_form_3_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_form_feign_form_spring_3_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_openfeign_core_2_1_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_openfeign_2_1_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dept-consumer-fegin-2001/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dept-consumer-fegin-2001/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dept-consumer-fegin-2001/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dept-consumer-fegin-2001/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dept-consumer-fegin-2001/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dept-consumer-fegin-2001/src/main/java/com/springcloud/deptconsumerfegin2001/DeptConsumerFegin2001Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dept-consumer-fegin-2001/src/main/java/com/springcloud/deptconsumerfegin2001/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dept-consumer-fegin-2001/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dept-consumer-fegin-2001/src/test/java/com/springcloud/deptconsumerfegin2001/DeptConsumerFegin2001ApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-api/src/main/java/com/hebo/springcloudapi/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-api/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dept-consumer-2000/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dept-consumer-2000/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dept-consumer-2000/src/main/java/com/hebo/deptconsumer2000/DeptConsumer2000Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/dept-consumer-2000/src/main/java/com/hebo/deptconsumer2000/DeptConsumer2000Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dept-provider-1000/dept-provider-1000.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dept-provider-1000/dept-provider-1000.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dept-provider-1002/dept-provider-1002.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dept-provider-1002/dept-provider-1002.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-api/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6727cb4f-6ac8-4c67-aeea-463867823419" name="Default Changelist" comment="添加自定义轮训机制" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/springcloud-api/target/" />
@@ -99,36 +65,10 @@
     <select />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/springcloud-api/src/main/java/com/hebo/springcloudapi/service/UserService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="31" column="7" lean-forward="true" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dept-consumer-fegin-2001/src/main/java/com/springcloud/deptconsumerfegin2001/controller/UserController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="38" column="51" selection-start-line="38" selection-start-column="51" selection-end-line="38" selection-end-column="51" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -141,12 +81,15 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/eureka-server-3001/src/main/java/eurekaserver/EurekaServerApplication.java" />
-        <option value="$PROJECT_DIR$/eureka-server-3001/src/main/java/com/hebo/eurekaserver3001.java" />
         <option value="$PROJECT_DIR$/eureka-server-3001/src/main/java/com/hebo/eurekaserver3001/EurekaServerApplication.java" />
         <option value="$PROJECT_DIR$/eureka-server-3002/pom.xml" />
         <option value="$PROJECT_DIR$/eureka-server-3002/src/main/java/com/hebo/eurekaserver3002/EurekaServer3002Application.java" />
@@ -167,7 +110,6 @@
         <option value="$PROJECT_DIR$/detpt-provider-1001/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/dept-provider-1002/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/dept-provider-1002/src/main/java/detptprovider1001/DetptProvider1002Application.java" />
-        <option value="$PROJECT_DIR$/dept-consumer-2000/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/eureka-server-3002/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/springcloud-api/src/main/java/com/hebo/springcloudapi/entites/User.java" />
         <option value="$PROJECT_DIR$/springcloud-api/src/main/java/com/hebo/springcloudapi/dto/ResponseDto.java" />
@@ -182,7 +124,6 @@
         <option value="$PROJECT_DIR$/dept-consumer-2000/src/main/java/com/hebo/rule/MyRule.java" />
         <option value="$PROJECT_DIR$/dept-consumer-2000/src/main/java/com/hebo/deptconsumer2000/config/ResultTemplateConfig.java" />
         <option value="$PROJECT_DIR$/dept-consumer-2000/src/main/java/com/hebo/deptconsumer2000/DeptConsumer2000Application.java" />
-        <option value="$PROJECT_DIR$/dept-consumer-2000/src/main/java/com/hebo/rule/CustomRule.java" />
         <option value="$PROJECT_DIR$/dept-consumer-fegin-2001/pom.xml" />
         <option value="$PROJECT_DIR$/dept-consumer-fegin-2001/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/dept-consumer-fegin-2001/src/main/java/com/springcloud/deptconsumerfegin2001/service/DeptService.java" />
@@ -195,7 +136,11 @@
         <option value="$PROJECT_DIR$/springcloud-api/src/main/java/com/hebo/springcloudapi/SpringcloudApiApplication.java" />
         <option value="$PROJECT_DIR$/springcloud-api/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/dept-consumer-fegin-2001/src/main/java/com/springcloud/deptconsumerfegin2001/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/dept-consumer-fegin-2001/src/main/java/com/springcloud/deptconsumerfegin2001/config/MySelfRule.java" />
+        <option value="$PROJECT_DIR$/dept-consumer-fegin-2001/src/main/java/com/springcloud/deptconsumerfegin2001/config/CunstomRule.java" />
+        <option value="$PROJECT_DIR$/dept-consumer-2000/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/springcloud-api/src/main/java/com/hebo/springcloudapi/service/UserService.java" />
+        <option value="$PROJECT_DIR$/dept-consumer-2000/src/main/java/com/hebo/rule/CustomRule.java" />
       </list>
     </option>
   </component>
@@ -226,76 +171,13 @@
     <option name="height" value="768" />
   </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-api" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloudapi" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloudapi" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -310,18 +192,26 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="ignore_missing_gitignore" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/springcloud-api/src/main/resources" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8 (1)" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.stylelint" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.36488026" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.springcloud.deptconsumerfegin2001.config" />
+      <recent name="com.hebo.rule" />
+    </key>
     <key name="CreateTestDialog.RecentsKey">
       <recent name="com.hebo.detptprovider1001.controller" />
       <recent name="com.hebo.detptprovider1001.service.impl" />
@@ -330,15 +220,9 @@
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\java\springcloud\detpt-provider-1001\src\main\resources" />
-    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.hebo.springcloudapi" />
       <recent name="com.hebo.detptprovider1001" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="eurekaserver" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\java\springcloud\springcloud-api\src\main\resources" />
@@ -347,8 +231,11 @@
       <recent name="D:\java\springcloud\dept-provider-1000\src\main\resources" />
       <recent name="D:\java\springcloud\dept-provider-1000\src\main\java" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.hebo.rule" />
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="eurekaserver" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\java\springcloud\detpt-provider-1001\src\main\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -367,7 +254,7 @@
         </RuleState>
       </list>
     </option>
-    <option name="contentProportion" value="0.21715611" />
+    <option name="contentProportion" value="0.2789799" />
   </component>
   <component name="RunManager" selected="Spring Boot.DeptConsumerFegin2001Application">
     <configuration name="UserServiceImplTest.insert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
@@ -558,30 +445,29 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31164902" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3161876" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info id="Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32923076" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.33692306" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.66615385" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.48153847" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32923076" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3276923" />
       <window_info anchor="bottom" id="Database Console" order="7" sideWeight="0.49924356" weight="0.4953846" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run Dashboard" order="9" visible="true" weight="0.5" />
-      <window_info anchor="bottom" id="Spring" order="10" weight="0.32923076" />
-      <window_info anchor="bottom" id="Database Changes" order="11" weight="0.3276923" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.52615386" />
+      <window_info anchor="bottom" id="Run Dashboard" order="9" weight="0.47846153" />
+      <window_info anchor="bottom" id="Spring" order="10" weight="0.3276923" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" weight="0.3276923" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3276923" />
       <window_info anchor="bottom" id="Terminal" order="13" weight="0.3276923" />
-      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.50075644" side_tool="true" weight="0.4953846" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="14" sideWeight="0.50075644" side_tool="true" visible="true" weight="0.21044546" />
       <window_info anchor="bottom" id="Java Enterprise" order="15" weight="0.41846153" />
       <window_info anchor="bottom" id="SQL Generator" order="16" weight="0.70153844" />
-      <window_info anchor="right" id="Maven" weight="0.32980332" />
+      <window_info anchor="bottom" id="Docker" order="17" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -589,6 +475,7 @@
       <window_info anchor="right" id="Bean Validation" order="4" />
       <window_info anchor="right" id="Palette&#9;" order="5" />
       <window_info anchor="right" id="Maven Projects" order="6" weight="0.32980332" />
+      <window_info anchor="right" id="Maven" order="7" visible="true" weight="0.32980332" />
     </layout>
     <layout-to-restore>
       <window_info id="Web" order="0" side_tool="true" />
@@ -623,9 +510,50 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="添加自定义轮训机制" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加自定义轮训机制" />
+    <MESSAGE value="添加fegin实现负载均衡" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加fegin实现负载均衡" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -658,26 +586,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/dept-provider-1002/src/main/java/detptprovider1001/dao/UserMapper.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dept-provider-1002/src/main/java/detptprovider1001/Swagger2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dept-provider-1002/src/main/java/detptprovider1001/service/UserService.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dept-provider-1000/src/main/java/detptprovider1001/dao/UserMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dept-provider-1002/src/main/java/detptprovider1001/DetptProvider1002Application.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
@@ -801,13 +709,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0-sources.jar!/com/netflix/loadbalancer/AbstractLoadBalancerRule.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="29" column="8" lean-forward="true" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://E:/workspace/jdk1.8.0_191/src.zip!/java/util/concurrent/atomic/AtomicInteger.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
@@ -826,16 +727,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dept-consumer-2000/src/main/java/com/hebo/rule/MyRule.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/dept-consumer-2000/src/main/java/com/hebo/rule/MyRule.java" />
     <entry file="file://$PROJECT_DIR$/dept-consumer-2000/src/main/java/com/hebo/deptconsumer2000/DeptConsumer2000Application.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
@@ -843,19 +735,6 @@
           <folding>
             <element signature="e#355#356#0" expanded="true" />
             <element signature="e#433#434#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dept-consumer-2000/src/main/java/com/hebo/rule/CustomRule.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2108#2109#0" expanded="true" />
-            <element signature="e#2135#2136#0" expanded="true" />
-            <element signature="method#initWithNiwsConfig#0;class#CustomRule#0" />
           </folding>
         </state>
       </provider>
@@ -908,13 +787,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dept-consumer-2000/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
@@ -1019,10 +891,65 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon-core/2.3.0/ribbon-core-2.3.0-sources.jar!/com/netflix/client/IClientConfigAware.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="38" column="60" selection-start-line="38" selection-start-column="60" selection-end-line="38" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0-sources.jar!/com/netflix/loadbalancer/IRule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="40" column="36" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dept-consumer-2000/src/main/java/com/hebo/rule/CustomRule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1358">
+          <caret line="76" column="19" selection-start-line="76" selection-start-column="19" selection-end-line="76" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2135#2136#0" expanded="true" />
+            <element signature="e#2314#2315#0" expanded="true" />
+            <element signature="e#2367#2368#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0-sources.jar!/com/netflix/loadbalancer/AbstractLoadBalancerRule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="26" column="75" selection-start-line="26" selection-start-column="75" selection-end-line="26" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dept-consumer-fegin-2001/src/main/java/com/springcloud/deptconsumerfegin2001/config/CunstomRule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#536#537#0" expanded="true" />
+            <element signature="e#562#563#0" expanded="true" />
+            <element signature="e#539#540#0" expanded="true" />
+            <element signature="e#566#567#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dept-consumer-2000/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/dept-consumer-fegin-2001/src/main/java/com/springcloud/deptconsumerfegin2001/controller/UserController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="38" column="51" selection-start-line="38" selection-start-column="51" selection-end-line="38" selection-end-column="51" />
+        <state relative-caret-position="222">
+          <caret line="38" column="52" lean-forward="true" selection-start-line="38" selection-start-column="52" selection-end-line="38" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1031,8 +958,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/springcloud-api/src/main/java/com/hebo/springcloudapi/service/UserService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="31" column="7" lean-forward="true" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
+        <state relative-caret-position="-154">
+          <caret line="17" column="14" lean-forward="true" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dept-consumer-fegin-2001/src/main/java/com/springcloud/deptconsumerfegin2001/config/MySelfRule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1106,7 +1043,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.36488026" />
               </list>
             </option>
           </splitter-proportions>
