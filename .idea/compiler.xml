@@ -6,18 +6,20 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="dept-consumer-2000" />
-        <module name="dept-provider-1000" />
-        <module name="dept-provider-1002" />
-        <module name="detpt-provider-1001" />
         <module name="eureka-server" />
-        <module name="eureka-server-3002" />
-        <module name="eurekaserver3001" />
+        <module name="detpt-provider-1001" />
         <module name="springcloud-api" />
+        <module name="dept-consumer-2000" />
+        <module name="dept-provider-1002" />
+        <module name="eurekaserver3001" />
+        <module name="dept-provider-1000" />
+        <module name="eureka-server-3002" />
+        <module name="dept-consumer-fegin-2001" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="dept-consumer-2000" target="1.8" />
+      <module name="dept-consumer-fegin-2001" target="1.8" />
       <module name="dept-provider-1000" target="1.8" />
       <module name="dept-provider-1002" target="1.8" />
       <module name="detpt-provider-1001" target="1.8" />
@@ -31,6 +33,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="dept-consumer-2000" options="-parameters" />
+      <module name="dept-consumer-fegin-2001" options="-parameters" />
       <module name="dept-provider-1000" options="-parameters" />
       <module name="dept-provider-1002" options="-parameters" />
       <module name="detpt-provider-1001" options="-parameters" />
