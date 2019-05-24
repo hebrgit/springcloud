@@ -9,7 +9,6 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
  */
 @SpringBootApplication
 @EnableFeignClients(basePackages = {"com.hebo.springcloudapi.service"})
-//@ComponentScan(value = "com.hebo.springcloudapi.service")
 public class DeptConsumerFegin2001Application {
 
     public static void main(String[] args) {
