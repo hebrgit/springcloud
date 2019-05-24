@@ -25,7 +25,7 @@ public interface UserService {
      * @param UID 用户id
      * @return
      */
-    @GetMapping("/findUser/{id}")
+    @GetMapping("user/findUser/{id}")
     ResponseDto findUserByUid(@PathVariable("id") String UID);
 
 
