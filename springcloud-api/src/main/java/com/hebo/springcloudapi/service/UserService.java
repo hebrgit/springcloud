@@ -9,7 +9,10 @@ import org.springframework.web.bind.annotation.PostMapping;
 
 import java.util.List;
 
-@FeignClient(value = "DEPT-PROVIDER-1000")
+/**
+ * @author HEBO
+ */
+@FeignClient(value = "DEPT-PROVIDER-1000",fallbackFactory = MyFallbackHandler.class)
 public interface UserService {
 
     /**

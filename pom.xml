@@ -13,6 +13,7 @@
         <module>dept-provider-1000</module>
         <module>dept-provider-1002</module>
         <module>springcloud-api</module>
+        <module>dept-consumer-hystrix-2002</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>

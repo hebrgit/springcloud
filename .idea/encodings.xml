@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dept-consumer-2000" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dept-consumer-fegin-2001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dept-consumer-hystrix-2002" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dept-provider-1000" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dept-provider-1002" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/detpt-provider-1001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-server-3001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-server-3002" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-api" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

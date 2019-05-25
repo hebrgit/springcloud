@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/dept-consumer-hystrix-2002/pom.xml" />
+        <option value="$PROJECT_DIR$/dept-consumer-2000/pom.xml" />
+        <option value="$PROJECT_DIR$/dept-consumer-fegin-2001/pom.xml" />
+        <option value="$PROJECT_DIR$/dept-provider-1000/pom.xml" />
+        <option value="$PROJECT_DIR$/dept-provider-1002/pom.xml" />
+        <option value="$PROJECT_DIR$/detpt-provider-1001/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-server-3001/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-server-3002/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-api/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="1.8 (1)" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
