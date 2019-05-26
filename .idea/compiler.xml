@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="dept-hystirx-dashboard-4000" />
         <module name="eureka-server" />
         <module name="detpt-provider-1001" />
         <module name="springcloud-api" />
@@ -22,6 +23,7 @@
       <module name="dept-consumer-2000" target="1.8" />
       <module name="dept-consumer-fegin-2001" target="1.8" />
       <module name="dept-consumer-hystrix-2002" target="1.8" />
+      <module name="dept-hystirx-dashboard-4000" target="1.8" />
       <module name="dept-provider-1000" target="1.8" />
       <module name="dept-provider-1002" target="1.8" />
       <module name="detpt-provider-1001" target="1.8" />
@@ -38,6 +40,7 @@
       <module name="dept-consumer-2000" options="-parameters" />
       <module name="dept-consumer-fegin-2001" options="-parameters" />
       <module name="dept-consumer-hystrix-2002" options="-parameters" />
+      <module name="dept-hystirx-dashboard-4000" options="-parameters" />
       <module name="dept-provider-1000" options="-parameters" />
       <module name="dept-provider-1002" options="-parameters" />
       <module name="detpt-provider-1001" options="-parameters" />
