@@ -11,8 +11,6 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import java.util.ArrayList;
-import java.util.Date;
 import java.util.List;
 
 /**
@@ -47,17 +45,5 @@ public class UserController {
         return  userService.findUsers();
     }
 
-    public List<User> findList(){
-        User u1 = new User();
-        u1.setUID("emp003");
-        u1.setUserName("文翰");
-        u1.setAge(26);
-        u1.setSex(0);
-        u1.setBrithy(new Date());
-        u1.setDeptId("yf001");
-        u1.setDb("db2");
-        List<User> users = new ArrayList<>();
-        users.add(u1);
-        return users;
-    }
+
 }
